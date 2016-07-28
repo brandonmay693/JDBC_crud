@@ -1,0 +1,5 @@
+*.class
+*.idea
+*.jar
+build 
+out
